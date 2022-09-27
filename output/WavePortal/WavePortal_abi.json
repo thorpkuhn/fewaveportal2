@@ -2,7 +2,12 @@
   {
     "type": "function",
     "name": "wave",
-    "inputs": [],
+    "inputs": [
+      {
+        "name": "waves",
+        "type": "uint256"
+      }
+    ],
     "outputs": [],
     "stateMutability": "payable"
   },
